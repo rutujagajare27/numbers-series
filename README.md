@@ -5,3 +5,5 @@ even number
 2,4,6,8
 odd numbers
 1,3,5,7
+armstrong numbers
+1,153,370,371
